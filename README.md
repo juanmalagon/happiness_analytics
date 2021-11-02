@@ -1,2 +1,2 @@
-# marketing_analytics
+# happiness_analytics
 CATBoost regressor for happiness
