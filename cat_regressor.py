@@ -14,7 +14,6 @@ from catboost import CatBoostClassifier, Pool
 from catboost.utils import select_threshold
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
-from . import handler
 
 
 def create_model(source_df):
