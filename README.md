@@ -1,2 +1,2 @@
 # marketing_analytics
-CATBoost classification for campaigns
+CATBoost regressor for happiness
